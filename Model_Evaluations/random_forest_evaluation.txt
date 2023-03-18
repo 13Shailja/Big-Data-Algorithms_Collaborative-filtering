@@ -1,0 +1,4 @@
+Evaluation of the model: 
+Time taken for training the model : 10.524028062820435 seconds
+Time taken for making predictions : 0.08602046966552734 seconds
+(2,[0,1],[0.16969855659700878,0.8303014434029912])

@@ -1,0 +1,4 @@
+Evaluation of the model: 
+Time taken for training the model : 7.229293584823608 seconds
+Time taken for making predictions : 0.03140878677368164 seconds
+Coefficients: [0.0005099161350969682,3.0327346508309777e-05,-1.2064074626776155e-07]Intercept: 2.8688911289139685numIterations: 1objectiveHistory: [0.0]RMSE: 1.105211r2: 0.034583
